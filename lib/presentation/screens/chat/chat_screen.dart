@@ -20,7 +20,7 @@ class ChatScreen extends StatelessWidget {
                 "https://pm1.aminoapps.com/6283/5c42f2dd9ba3a73640aeca25131fb3eae6dc973b_128.jpg"),
           ),
         ),
-        title: const Text('♥♥ Anne Hathaway ♥♥'),
+        title: const Text('Anne Hathaway'),
         centerTitle: false,
       ),
       body: _ChatView(),
