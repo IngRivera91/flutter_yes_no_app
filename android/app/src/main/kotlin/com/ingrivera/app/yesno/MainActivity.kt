@@ -1,4 +1,4 @@
-package com.example.yes_no_app
+package com.ingrivera.app.yesno
 
 import io.flutter.embedding.android.FlutterActivity
 
